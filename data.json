@@ -40,7 +40,8 @@
       "THEORETICAL_HOE_WHEAT_1",
       "THEORETICAL_HOE_WHEAT_2",
       "JUNGLE_AXE",
-      "ENCHANTED_FERMENTED_SPIDER_EYE"
+      "ENCHANTED_FERMENTED_SPIDER_EYE",
+      "DEFUSE_KIT"
     ],
     "allowDroppingTheseItems": [
       "RUNE",
