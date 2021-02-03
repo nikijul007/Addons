@@ -52,7 +52,11 @@
       "FAIRY_HELMET",
       "FAIRY_CHESTPLATE",
       "FAIRY_LEGGINGS",
-      "FAIRY_BOOTS"
+      "FAIRY_BOOTS",
+      "GOBLIN_HELMET",
+      "GOBLIN_CHESTPLATE",
+      "GOBLIN_LEGGINGS",
+      "GOBLIN_BOOTS"
     ]
   }
 }
