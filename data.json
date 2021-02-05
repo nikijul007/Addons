@@ -56,7 +56,8 @@
       "GOBLIN_HELMET",
       "GOBLIN_CHESTPLATE",
       "GOBLIN_LEGGINGS",
-      "GOBLIN_BOOTS"
+      "GOBLIN_BOOTS",
+      "POTION"
     ]
   }
 }
