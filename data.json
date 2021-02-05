@@ -57,7 +57,8 @@
       "GOBLIN_CHESTPLATE",
       "GOBLIN_LEGGINGS",
       "GOBLIN_BOOTS",
-      "POTION"
+      "POTION",
+      "SPIRIT_LEAP"
     ]
   }
 }
