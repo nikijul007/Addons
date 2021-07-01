@@ -40,8 +40,7 @@
       "THEORETICAL_HOE_WHEAT_1",
       "THEORETICAL_HOE_WHEAT_2",
       "JUNGLE_AXE",
-      "ENCHANTED_FERMENTED_SPIDER_EYE",
-      "DEFUSE_KIT"
+      "ENCHANTED_FERMENTED_SPIDER_EYE"
     ],
     "allowDroppingTheseItems": [
       "RUNE",
@@ -61,6 +60,7 @@
       "SPIRIT_LEAP",
       "PREMIUM_FLESH",
       "NECROMANCER_BROOCH",
+      "BEATING_HEART",
       "HAPPY_MASK"
     ]
   }
