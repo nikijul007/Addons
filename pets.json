@@ -1,0 +1,319 @@
+{
+  "pets": [
+    {
+      "name": "AMMONITE",
+      "uuid": "d05d927e-f686-323e-9c21-a99d0e0cc2ca",
+      "texture": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553"
+    },
+    {
+      "name": "ARMADILLO",
+      "uuid": "f98c37c6-7610-3609-ba5b-86b25910fe1e",
+      "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f"
+    },
+    {
+      "name": "BABY_YETI",
+      "uuid": "7895e21a-8f3b-3e30-bea6-06108f64d5dc",
+      "texture": "ab126814fc3fa846dad934c349628a7a1de5b415021a03ef4211d62514d5"
+    },
+    {
+      "name": "BAL",
+      "uuid": "704396fb-e7f0-3a33-bb57-d9bd34d6c7c9",
+      "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75"
+    },
+    {
+      "name": "BAT",
+      "uuid": "1911c3bb-c0af-3474-98e2-486478c5b9ea",
+      "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527"
+    },
+    {
+      "name": "BEE",
+      "uuid": "af894c68-45d0-3ae2-952c-b3cf925199ad",
+      "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263"
+    },
+    {
+      "name": "BINGO",
+      "uuid": "7fb239eb-4600-491d-8fc5-b5e7c044a218",
+      "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c"
+    },
+    {
+      "name": "BLACK_CAT",
+      "uuid": "1dc2c096-de81-31d7-8bba-4f6b10c0c84e",
+      "texture": "e4b45cbaa19fe3d68c856cd3846c03b5f59de81a480eec921ab4fa3cd81317"
+    },
+    {
+      "name": "BLAZE",
+      "uuid": "118fe834-28aa-3b0d-afe6-f0c52d01afe8",
+      "texture": "b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0"
+    },
+    {
+      "name": "BLUE_WHALE",
+      "uuid": "47c8ba46-82ac-3c09-b511-5502860eb012",
+      "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20"
+    },
+    {
+      "name": "CHICKEN",
+      "uuid": "df0a2ec6-7cea-3132-9ccf-2589a39719ba",
+      "texture": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e"
+    },
+    {
+      "name": "DOLPHIN",
+      "uuid": "48f53ffe-a3f0-3280-aac0-11cc0d6121f4",
+      "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5"
+    },
+    {
+      "name": "ELEPHANT",
+      "uuid": "cf7d262e-0ebf-3ad2-91c7-d05775bedd44",
+      "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514"
+    },
+    {
+      "name": "ENDER_DRAGON",
+      "uuid": "3f9632a1-0ce2-311a-97e7-b144dfcb74f3",
+      "texture": "aec3ff563290b13ff3bcc36898af7eaa988b6cc18dc254147f58374afe9b21b9"
+    },
+    {
+      "name": "ENDERMAN",
+      "uuid": "476cd413-4182-331d-845f-451608355831",
+      "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1"
+    },
+    {
+      "name": "ENDERMITE",
+      "uuid": "a1f64509-9670-320a-a9bd-4a1e7df6fed9",
+      "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855"
+    },
+    {
+      "name": "FLYING_FISH",
+      "uuid": "c7b1a789-f7b4-394f-84a5-9ba19cb347d0",
+      "texture": "40cd71fbbbbb66c7baf7881f415c64fa84f6504958a57ccdb8589252647ea"
+    },
+    {
+      "name": "GHOUL",
+      "uuid": "546819c1-9b46-31dc-a5be-d501bb3763f6",
+      "texture": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b"
+    },
+    {
+      "name": "GIRAFFE",
+      "uuid": "11216f12-2843-31c8-bf8a-b8535e6c6dce",
+      "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9"
+    },
+    {
+      "name": "GOLDEN_DRAGON",
+      "uuid": "0e455321-f4a7-338a-96a4-d0df166e6e48",
+      "texture": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
+    },
+    {
+      "name": "GOLEM",
+      "uuid": "623fa763-a8d1-36c6-8dcf-09f100723d04",
+      "texture": "89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714"
+    },
+    {
+      "name": "GRANDMA_WOLF",
+      "uuid": "fe2f7a1b-9b85-33aa-b07a-58bdcddf46a6",
+      "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884"
+    },
+    {
+      "name": "GRIFFIN",
+      "uuid": "357dc70d-fd29-3615-88fb-b465ade33f19",
+      "texture": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8"
+    },
+    {
+      "name": "GUARDIAN",
+      "uuid": "26508276-c01a-32a9-9201-7dae1724954e",
+      "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d"
+    },
+    {
+      "name": "HORSE",
+      "uuid": "7e317c8a-0a4e-3133-9232-83b57d9a784e",
+      "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226"
+    },
+    {
+      "name": "HOUND",
+      "uuid": "802a167c-cbcd-3a1f-becd-5b1a25a4cf15",
+      "texture": "b7c8bef6beb77e29af8627ecdc38d86aa2fea7ccd163dc73c00f9f258f9a1457"
+    },
+    {
+      "name": "JELLYFISH",
+      "uuid": "a7be2bb4-70a1-32e4-a981-8f26c5864371",
+      "texture": "913f086ccb56323f238ba3489ff2a1a34c0fdceeafc483acff0e5488cfd6c2f1"
+    },
+    {
+      "name": "JERRY",
+      "uuid": "c9540683-51e4-3942-ad17-4f2c3f3ae4b7",
+      "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
+    },
+    {
+      "name": "KUUDRA",
+      "uuid": "226ba0aa-272b-5b64-8442-192a70e0c40e",
+      "texture": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587"
+    },
+    {
+      "name": "LION",
+      "uuid": "7e3ed445-3545-3c76-993b-8f292ea576c6",
+      "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1"
+    },
+    {
+      "name": "MAGMA_CUBE",
+      "uuid": "35f02923-7bec-3869-9ef5-b42a4794cac8",
+      "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429"
+    },
+    {
+      "name": "MEGALODON",
+      "uuid": "82fc79b9-fded-3c05-b8dc-00e562803862",
+      "texture": "a94ae433b301c7fb7c68cba625b0bd36b0b14190f20e34a7c8ee0d9de06d53b9"
+    },
+    {
+      "name": "MITHRIL_GOLEM",
+      "uuid": "39fb84b5-72d3-3221-b373-aa315e956e83",
+      "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1"
+    },
+    {
+      "name": "MONKEY",
+      "uuid": "6adda4db-59ed-3dc5-ac1d-03a2c43f7dd0",
+      "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca"
+    },
+    {
+      "name": "MOOSHROOM_COW",
+      "uuid": "0551db97-ea7e-3c99-b0b6-db65a3d29a6d",
+      "texture": "2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77"
+    },
+    {
+      "name": "OCELOT",
+      "uuid": "049e58ac-5c8d-3381-a4bd-e62e0261990c",
+      "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1"
+    },
+    {
+      "name": "PARROT",
+      "uuid": "cbd58638-f78c-3f85-9b08-6b02f0614215",
+      "texture": "5df4b3401a4d06ad66ac8b5c4d189618ae617f9c143071c8ac39a563cf4e4208"
+    },
+    {
+      "name": "PHOENIX",
+      "uuid": "4173bc61-9e2f-3c84-8d31-4517e64062ab",
+      "texture": "23aaf7b1a778949696cb99d4f04ad1aa518ceee256c72e5ed65bfa5c2d88d9e"
+    },
+    {
+      "name": "PIG",
+      "uuid": "f6cb99e0-d9d4-34f9-8fe7-3cfaa93369f6",
+      "texture": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4"
+    },
+    {
+      "name": "PIGMAN",
+      "uuid": "fd837a44-d59d-3c1b-a4ac-6da86b08deb2",
+      "texture": "63d9cb6513f2072e5d4e426d70a5557bc398554c880d4e7b7ec8ef4945eb02f2"
+    },
+    {
+      "name": "RABBIT",
+      "uuid": "a9a344e6-192c-335f-8d51-5bc1321cb350",
+      "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b"
+    },
+    {
+      "name": "RAT",
+      "uuid": "8842a457-5e25-3ad0-958e-dfbebbb1129c",
+      "texture": "a8abb471db0ab78703011979dc8b40798a941f3a4dec3ec61cbeec2af8cffe8"
+    },
+    {
+      "name": "ROCK",
+      "uuid": "1ed7c993-8190-3055-a48c-f70f71b17284",
+      "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa"
+    },
+    {
+      "name": "SCATHA",
+      "uuid": "730a6086-ad87-38fa-8fa4-0b76a060f4fc",
+      "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c"
+    },
+    {
+      "name": "SHEEP",
+      "uuid": "37bacd66-7fe6-39e3-81cf-82911daf648b",
+      "texture": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0"
+    },
+    {
+      "name": "SILVERFISH",
+      "uuid": "79e570d8-f66e-375c-9e70-97224ccd5692",
+      "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540"
+    },
+    {
+      "name": "SKELETON",
+      "uuid": "a404772a-f923-34df-b7e3-49f7e556e179",
+      "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4"
+    },
+    {
+      "name": "SKELETON_HORSE",
+      "uuid": "bd84da18-cd6c-3191-9bc5-0fa4c2071372",
+      "texture": "47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a"
+    },
+    {
+      "name": "SNAIL",
+      "uuid": "086630c9-9079-3ab1-8125-f9583d752ee2",
+      "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972"
+    },
+    {
+      "name": "SNOWMAN",
+      "uuid": "b2b19dcd-dc67-31df-a790-e6cf07ae12ac",
+      "texture": "11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208"
+    },
+    {
+      "name": "SPIDER",
+      "uuid": "7c63f3cf-a963-311a-aeca-3a075b417806",
+      "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1"
+    },
+    {
+      "name": "SPIRIT",
+      "uuid": "efd1a208-55e7-3f94-84ed-1aa246760cee",
+      "texture": "8d9ccc670677d0cebaad4058d6aaf9acfab09abea5d86379a059902f2fe22655"
+    },
+    {
+      "name": "SQUID",
+      "uuid": "7b5da593-80d3-39f4-8220-2cef27c5b9d9",
+      "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac"
+    },
+    {
+      "name": "DROPLET_WISP",
+      "uuid": "43c79814-2bfa-3b9e-a79e-b89d4f26f033",
+      "texture": "b412e70375ec99ee38ae94b30e9b10752d459662b54794dfe66fe6a183c672d3"
+    },
+    {
+      "name": "FROST_WISP",
+      "uuid": "7bee6c75-e1d9-5106-9839-ffdecb7478e3",
+      "texture": "1d8ad9936d758c5ea30b0b7cc7c67c2bfcea829ecf2425c0b50fc92a26ae23d0"
+    },
+    {
+      "name": "GLACIAL_WISP",
+      "uuid": "69d5b59f-78c1-5623-84d9-4ae30369ffa2",
+      "texture": "3e2018feebe1a99177b3cb196d4e44521268b4b3eb56e6419cb0253cdbf0456c"
+    },
+    {
+      "name": "SUBZERO_WISP",
+      "uuid": "2d041a0d-8ed0-5429-aedd-ce73f3201fca",
+      "texture": "7a0eb37e58c942eca4d33ab44e26eb1910c783788510b0a53b6f4d18881e237e"
+    },
+    {
+      "name": "TARANTULA",
+      "uuid": "3e5474d4-4365-3ea7-b4bc-b4edc54da341",
+      "texture": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8"
+    },
+    {
+      "name": "TIGER",
+      "uuid": "33a69ead-44ac-3791-9425-52109aacdaa6",
+      "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84"
+    },
+    {
+      "name": "TURTLE",
+      "uuid": "f10d652b-906b-3065-adf5-9817983201ca",
+      "texture": "212b58c841b394863dbcc54de1c2ad2648af8f03e648988c1f9cef0bc20ee23c"
+    },
+    {
+      "name": "WITHER_SKELETON",
+      "uuid": "d928ce5e-e75e-3cdc-aaf1-0c93d49b5c31",
+      "texture": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff"
+    },
+    {
+      "name": "WOLF",
+      "uuid": "9d2b3b08-495a-3a45-a49a-0869cf7e8ffa",
+      "texture": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494"
+    },
+    {
+      "name": "ZOMBIE",
+      "uuid": "1c760ea5-2e91-3c2e-b52a-e17d11733658",
+      "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11"
+    }
+  ]
+}
