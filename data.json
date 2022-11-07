@@ -111,7 +111,15 @@
       "NECROMANCER_BROOCH",
       "BEATING_HEART",
       "HAPPY_MASK",
-      "CORRUPTED_FRAGMENT"
+      "CORRUPTED_FRAGMENT",
+      "ENDER_CHESTPLATE",
+      "ENDER_HELMET",
+      "ENDER_LEGGINGS",
+      "ENDER_BOOTS",
+      "ENDER_NECKLACE",
+      "ENDER_CLOAK",
+      "ENDER_BELT",
+      "ENDER_GAUNTLET"
     ]
   },
 
