@@ -211,6 +211,11 @@
       "texture": "a8abb471db0ab78703011979dc8b40798a941f3a4dec3ec61cbeec2af8cffe8"
     },
     {
+      "name": "REINDEER",
+      "uuid": "d47e776a-5c75-4cb2-acf4-5432e69a1d5dn",
+      "texture": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098"
+    },
+    {
       "name": "ROCK",
       "uuid": "1ed7c993-8190-3055-a48c-f70f71b17284",
       "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa"
