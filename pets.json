@@ -101,6 +101,11 @@
       "texture": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
     },
     {
+      "name": "GOLDEN_DRAGON_EGG",
+      "uuid": "0e455321-f4a7-338a-96a4-d0df166e6e48",
+      "texture": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
+    },
+    {
       "name": "GOLEM",
       "uuid": "623fa763-a8d1-36c6-8dcf-09f100723d04",
       "texture": "89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714"
