@@ -61,6 +61,11 @@
       "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5"
     },
     {
+      "name": "EERIE",
+      "uuid": "6977593c-236b-31c8-943e-6df9b3c0ab6c",
+      "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98"
+    },
+    {
       "name": "ELEPHANT",
       "uuid": "cf7d262e-0ebf-3ad2-91c7-d05775bedd44",
       "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514"
@@ -219,6 +224,11 @@
       "name": "REINDEER",
       "uuid": "32ffdfaf-3148-3d23-85a7-b9a059cd9dae",
       "texture": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098"
+    },
+    {
+      "name": "RIFT_FERRET",
+      "uuid": "b73ba979-5adc-379f-87f4-9c412db732e7",
+      "texture": "b6b11399448260185da1d17e54c984515faab6d8585f00972451ec2b43d46f94"
     },
     {
       "name": "ROCK",
