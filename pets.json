@@ -6,6 +6,11 @@
       "texture": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553"
     },
     {
+      "name": "ANKYLOSAURUS",
+      "uuid": "a7c1eaa8-5647-338e-aebf-775b708493de",
+      "texture": "c1aa836b9096c417903299a6c5ab41738c19648ac439fed4bcbe6c32605338dc"
+    },
+    {
       "name": "ARMADILLO",
       "uuid": "f98c37c6-7610-3609-ba5b-86b25910fe1e",
       "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f"
@@ -101,6 +106,11 @@
       "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9"
     },
     {
+      "name": "GOBLIN",
+      "uuid": "38627568-11ba-32cc-91a4-93ac97e2c9da",
+      "texture": "7309d8dc35a638a04b915a3b15a1452ceeae0d7ea42bcdadb21b03046987515c"
+    },
+    {
       "name": "GOLDEN_DRAGON",
       "uuid": "0e455321-f4a7-338a-96a4-d0df166e6e48",
       "texture": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116"
@@ -166,6 +176,11 @@
       "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429"
     },
     {
+      "name": "MAMMOTH",
+      "uuid": "dcd141b6-82b7-3abe-b215-c211e6ecc146",
+      "texture": "6b10715732cd1fd49fa1b6187947c307dd4687105cf033840607f9d6234743ad"
+    },
+    {
       "name": "MEGALODON",
       "uuid": "82fc79b9-fded-3c05-b8dc-00e562803862",
       "texture": "a94ae433b301c7fb7c68cba625b0bd36b0b14190f20e34a7c8ee0d9de06d53b9"
@@ -174,6 +189,11 @@
       "name": "MITHRIL_GOLEM",
       "uuid": "39fb84b5-72d3-3221-b373-aa315e956e83",
       "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1"
+    },
+    {
+      "name": "MOLE",
+      "uuid": "3cdb4ba5-d7ee-423e-bce8-b15bef8902cd",
+      "texture": "727baaafc09978d4bda73e16afdde85ec13b0f95ad989524c5fcaa717cf06b4a"
     },
     {
       "name": "MONKEY",
@@ -191,9 +211,19 @@
       "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1"
     },
     {
+      "name": "OWL",
+      "uuid": "63fe87e2-9829-35a6-8fdd-63de9c9ce5a9",
+      "texture": "da3216da54e7368fb40b721239ad95e07ef4f97d93f1c42ff319bab9a53882af"
+    },
+    {
       "name": "PARROT",
       "uuid": "cbd58638-f78c-3f85-9b08-6b02f0614215",
       "texture": "5df4b3401a4d06ad66ac8b5c4d189618ae617f9c143071c8ac39a563cf4e4208"
+    },
+    {
+      "name": "PENGUIN",
+      "uuid": "90ea5139-dc59-33a0-9715-d276ce992432",
+      "texture": "37534e97f36e5a8335928e171ec99608bee7fb16e260afb301025b3b17eeefc4"
     },
     {
       "name": "PHOENIX",
@@ -261,6 +291,11 @@
       "texture": "47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a"
     },
     {
+      "name": "SLUG",
+      "uuid": "bd1a026f-387c-30c8-adf2-62f57cf9709e",
+      "texture": "7a79d0fd677b54530961117ef84adc206e2cc5045c1344d61d776bf8ac2fe1ba"
+    },
+    {
       "name": "SNAIL",
       "uuid": "086630c9-9079-3ab1-8125-f9583d752ee2",
       "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972"
@@ -274,6 +309,11 @@
       "name": "SPIDER",
       "uuid": "7c63f3cf-a963-311a-aeca-3a075b417806",
       "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1"
+    },
+    {
+      "name": "SPINOSAURUS",
+      "uuid": "c93a1c6c-ec50-34a5-9349-bcf315613292",
+      "texture": "d3c9d479471a2f13f22548315159591720992e70c920fef83a901b7186720e3c"
     },
     {
       "name": "SPIRIT",
@@ -319,6 +359,11 @@
       "name": "TURTLE",
       "uuid": "f10d652b-906b-3065-adf5-9817983201ca",
       "texture": "212b58c841b394863dbcc54de1c2ad2648af8f03e648988c1f9cef0bc20ee23c"
+    },
+    {
+      "name": "TYRANNOSAURUS",
+      "uuid": "9f3f069f-8c4d-3dcc-8685-d83d2fcdeb1e",
+      "texture": "93f28ec96df59c67e9d2fc2e7e3d055fa31646e4111add9fe26a692801964126"
     },
     {
       "name": "WITHER_SKELETON",
