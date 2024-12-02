@@ -146,6 +146,11 @@
       "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d"
     },
     {
+      "name": "HEDGEHOG",
+      "uuid": "93c1563d-d2f7-3232-9beb-6ccd79bbafcc",
+      "texture": "5f5e835c116e8e200e2e06aa593cab8f1a9f8c40e7f005a9c76f12e24f4c6370"
+    },
+    {
       "name": "HORSE",
       "uuid": "7e317c8a-0a4e-3133-9232-83b57d9a784e",
       "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226"
